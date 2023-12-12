@@ -232,9 +232,9 @@ public class Custom_LinkedList {
      *          - based on position
      */
 
-    /*
-     *  Print
-     */
+
+     //  PRINT
+
     public void printList(Node head) {
         Node curr = head;
         while (curr.next != null ) {
